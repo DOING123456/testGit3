@@ -1,0 +1,9 @@
+1、标记用户身份http请求首部
+form: e-mail
+user-agen: 监听浏览器
+referer: 跳转链接
+2、IP地址
+3、用户登录
+4、胖URL
+5、cookie
+    document.cookie
